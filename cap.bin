@@ -1,0 +1,39 @@
+ets Jul 29 2019 12:21:46
+
+rst:0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+{"info":"ESP32 realistic telemetry simulator v1","rate_hz":5}
+{"seq":1,"ts_ms":239,"lat":17.385000,"lon":78.486702,"altitude":0.00,"mode":0,"armed":false,"battery_voltage":16.05,"remain_min":18.1,"gps_sats":10,"gps_fix":3,"pitch":0.00,"roll":0.00,"yaw":0.00,"vx":0.00,"vy":0.00,"vz":0.00}
+{"seq":2,"ts_ms":439,"lat":17.385000,"lon":78.486702,"altitude":0.00,"mode":0,"armed":true,"battery_voltage":15.92,"remain_min":17.4,"gps_sats":17,"gps_fix":3,"pitch":0.37,"roll":-0.57,"yaw":0.00,"vx":0.00,"vy":0.00,"vz":0.00}
+{"seq":3,"ts_ms":639,"lat":17.385000,"lon":78.486702,"altitude":0.00,"mode":0,"armed":true,"battery_voltage":15.89,"remain_min":18.0,"gps_sats":18,"gps_fix":2,"pitch":0.59,"roll":0.56,"yaw":0.00,"vx":0.00,"vy":0.00,"vz":0.00}
+{"seq":4,"ts_ms":839,"lat":17.385000,"lon":78.486702,"altitude":0.00,"mode":0,"armed":true,"battery_voltage":15.87,"remain_min":17.6,"gps_sats":18,"gps_fix":3,"pitch":-0.41,"roll":-0.19,"yaw":0.00,"vx":0.00,"vy":0.00,"vz":0.00}
+{"seq":5,"ts_ms":1039,"lat":17.385000,"lon":78.486702,"altitude":0.00,"mode":0,"armed":true,"battery_voltage":15.90,"remain_min":18.2,"gps_sats":18,"gps_fix":3,"pitch":-0.23,"roll":-0.37,"yaw":0.00,"vx":0.00,"vy":0.00,"vz":0.00}
+{"seq":6,"ts_ms":1239,"lat":17.385000,"lon":78.486702,"altitude":0.00,"mode":0,"armed":true,"battery_voltage":15.88,"remain_min":17.8,"gps_sats":17,"gps_fix":3,"pitch":-0.30,"roll":0.53,"yaw":0.00,"vx":0.00,"vy":0.00,"vz":0.00}
+{"seq":7,"ts_ms":1439,"lat":17.385000,"lon":78.486702,"altitude":0.00,"mode":0,"armed":true,"battery_voltage":15.86,"remain_min":18.5,"gps_sats":19,"gps_fix":3,"pitch":0.51,"roll":0.34,"yaw":0.00,"vx":0.00,"vy":0.00,"vz":0.00}
+{"seq":8,"ts_ms":1639,"lat":17.385000,"lon":78.486702,"altitude":0.00,"mode":0,"armed":true,"battery_voltage":15.91,"remain_min":17.9,"gps_sats":19,"gps_fix":3,"pitch":-0.38,"roll":-0.26,"yaw":0.00,"vx":0.00,"vy":0.00,"vz":0.00}
+{"seq":9,"ts_ms":1839,"lat":17.385000,"lon":78.486702,"altitude":0.00,"mode":0,"armed":true,"battery_voltage":15.93,"remain_min":17.5,"gps_sats":11,"gps_fix":2,"pitch":0.36,"roll":0.21,"yaw":0.00,"vx":0.00,"vy":0.00,"vz":0.00}
+{"seq":10,"ts_ms":2039,"lat":17.385000,"lon":78.486702,"altitude":0.00,"mode":0,"armed":true,"battery_voltage":15.89,"remain_min":17.4,"gps_sats":18,"gps_fix":3,"pitch":-0.58,"roll":-0.24,"yaw":0.00,"vx":0.00,"vy":0.00,"vz":0.00}
+{"seq":11,"ts_ms":2239,"lat":17.385000,"lon":78.486702,"altitude":0.00,"mode":0,"armed":true,"battery_voltage":15.92,"remain_min":18.2,"gps_sats":20,"gps_fix":3,"pitch":-0.12,"roll":0.56,"yaw":0.00,"vx":0.00,"vy":0.00,"vz":0.00}
+{"seq":12,"ts_ms":2439,"lat":17.385000,"lon":78.486702,"altitude":0.38,"mode":1,"armed":true,"battery_voltage":15.93,"remain_min":18.0,"gps_sats":17,"gps_fix":3,"pitch":-0.31,"roll":0.03,"yaw":0.00,"vx":-0.03,"vy":-0.18,"vz":2.50}
+{"seq":13,"ts_ms":2639,"lat":17.385000,"lon":78.486702,"altitude":0.88,"mode":1,"armed":true,"battery_voltage":15.94,"remain_min":18.8,"gps_sats":10,"gps_fix":3,"pitch":0.61,"roll":-0.18,"yaw":0.00,"vx":-0.13,"vy":0.36,"vz":2.50}
+{"seq":14,"ts_ms":2839,"lat":17.385000,"lon":78.486702,"altitude":1.38,"mode":1,"armed":true,"battery_voltage":15.86,"remain_min":17.8,"gps_sats":19,"gps_fix":2,"pitch":0.42,"roll":-0.28,"yaw":0.00,"vx":0.23,"vy":0.06,"vz":2.50}
+{"seq":15,"ts_ms":3039,"lat":17.385000,"lon":78.486702,"altitude":1.88,"mode":1,"armed":true,"battery_voltage":15.93,"remain_min":18.6,"gps_sats":20,"gps_fix":3,"pitch":-0.90,"roll":-1.21,"yaw":0.00,"vx":0.38,"vy":-0.28,"vz":2.50}
+{"seq":16,"ts_ms":3239,"lat":17.385000,"lon":78.486702,"altitude":2.38,"mode":1,"armed":true,"battery_voltage":15.89,"remain_min":18.0,"gps_sats":15,"gps_fix":3,"pitch":0.80,"roll":0.17,"yaw":0.00,"vx":0.19,"vy":0.28,"vz":2.50}
+{"seq":17,"ts_ms":3439,"lat":17.385000,"lon":78.486702,"altitude":2.88,"mode":1,"armed":true,"battery_voltage":15.85,"remain_min":17.3,"gps_sats":20,"gps_fix":3,"pitch":-1.15,"roll":-0.51,"yaw":0.00,"vx":0.02,"vy":-0.44,"vz":2.50}
+{"seq":18,"ts_ms":3639,"lat":17.385000,"lon":78.486702,"altitude":3.38,"mode":1,"armed":true,"battery_voltage":15.90,"remain_min":18.3,"gps_sats":12,"gps_fix":3,"pitch":0.11,"roll":-0.76,"yaw":0.00,"vx":0.49,"vy":-0.01,"vz":2.50}
+{"seq":19,"ts_ms":3839,"lat":17.385000,"lon":78.486702,"altitude":3.88,"mode":1,"armed":true,"battery_voltage":15.89,"remain_min":17.3,"gps_sats":14,"gps_fix":2,"pitch":-0.49,"roll":-0.36,"yaw":0.00,"vx":0.38,"vy":-0.38,"vz":2.50}
+{"seq":20,"ts_ms":4039,"lat":17.385000,"lon":78.486702,"altitude":4.38,"mode":1,"armed":true,"battery_voltage":15.92,"remain_min":18.7,"gps_sats":17,"gps_fix":3,"pitch":-1.07,"roll":-1.15,"yaw":0.00,"vx":0.45,"vy":-0.36,"vz":2.50}
+{"seq":21,"ts_ms":4239,"lat":17.385000,"lon":78.486702,"altitude":4.88,"mode":1,"armed":true,"battery_voltage":15.89,"remain_min":18.8,"gps_sats":19,"gps_fix":3,"pitch":-0.18,"roll":0.97,"yaw":0.00,"vx":-0.46,"vy":0.08,"vz":2.50}
+{"seq":22,"ts_ms":4439,"lat":17.385000,"lon":78.486702,"altitude":5.38,"mode":1,"armed":true,"battery_voltage":15.92,"remain_min":17.3,"gps_sats":15,"gps_fix":3,"pitch":0.42,"roll":-0.45,"yaw":0.00,"vx":0.45,"vy":0.07,"vz":2.50}
+{"seq":23,"ts_ms":4639,"lat":17.385000,"lon":78.486702,"altitude":5.88,"mode":1,"armed":true,"battery_voltage":15.89,"remain_min":18.8,"gps_sats":16,"gps_fix":3,"pitch":-0.11,"roll":0.07,"yaw":0.00,"vx":0.14,"vy":-0.09,"vz":2.50}
+{"seq":24,"ts_ms":4839,"lat":17.385000,"lon":78.486702,"altitude":6.38,"mode":1,"armed":true,"battery_voltage":15.88,"remain_min":18.1,"gps_sats":10,"gps_fix":2,"pitch":-0.91,"roll":0.04,"yaw":0.00,"vx":0.19,"vy":-0.33,"vz":2.50}
+{"seq":25,"ts_ms":5039,"lat":17.385000,"lon":78.486702,"altitude":6.88,"mode":1,"armed":true,"battery_voltage":15.91,"remain_min":17.4,"gps_sats":16,"gps_fix":3,"pitch":-1.10,"roll":0.48,"yaw":0.00,"vx":0.03,"vy":-0.49,"vz":2.50}
+{"seq":26,"ts_ms":5239,"lat":17.385000,"lon":78.486702,"altitude":7.38,"mode":1,"armed":true,"battery_voltage":15.86,"remain_min":18.1,"gps_sats":20,"gps_fix":3,"pitch":-0.10,"roll":-0.04,"yaw":0.00,"vx":-0.14,"vy":-0.23,"vz":2.50}
+{"seq":27,"ts_ms":5439,"lat":17.385000,"lon":78.486702,"altitude":7.88,"mode":1,"armed":true,"battery_voltage":15.90,"remain_min":17.7,"gps_sats":15,"gps_fix":3,"pitch":-0.27,"roll":-0.64,"yaw":0.00,"vx":0.12,"vy":-0.26,"vz":2.50}
+{"seq":28,"ts_ms":5639,"lat":17.385000,"lon":78.486702,"altitude":8.38,"mode":1,"armed":true,"battery_voltage":15.93,"remain_min":18.4,"gps_sats":12,"gps_fix":2,"pitch":-0.13,"roll":0.40,"yaw":0.00,"vx":-0.42,"vy":-0.21,"vz":2.50}

@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 160">
+  <rect width="600" height="160" rx="20" ry="20" fill="#0f141a"/>
+  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle"
+        font-family="Segoe UI, Arial, sans-serif" font-size="72" font-weight="700"
+        fill="#7CFC99" letter-spacing="2">YOUR LOGO</text>
+</svg>
